@@ -1,0 +1,4 @@
+modded the OmegaLatin width to be 104% 105% 104% 105% 
+based around the observed width deltas in other cap characters
+
+
